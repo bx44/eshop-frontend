@@ -1,0 +1,12 @@
+body {
+    background-color: #62C311;
+    color: white;
+}
+
+nav {
+    display: flex;
+}
+
+nav .logo {
+    flex-grow: 1;
+}
