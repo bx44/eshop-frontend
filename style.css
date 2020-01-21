@@ -162,7 +162,7 @@ h2 {
 }
 
 #featured-products p {
- display: inline-block;
+    display: inline-block;
 }
 
 .add-to-cart svg {
@@ -374,4 +374,49 @@ article h3 {
     width: 18px;
     height: 18px;
     opacity: 0.4;
+}
+
+#footer {
+    background-color: white;
+    color: black;
+    display: grid;
+    grid-template-columns: 40px 1fr 1fr 1fr 1fr 40px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    row-gap: 30px;
+    column-gap: 35px;
+    align-items: center;
+}
+
+.map {
+    width: 100%;
+    grid-column: 1 / span 6;
+}
+
+#footer .button {
+    grid-column: 2;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#footer li {
+    display: block;
+}
+
+.accepted-payments {
+    display: flex;
+    justify-content: space-around;
+}
+
+.accepted-payments img {
+    width: 40px;
+}
+
+.email img {
+    width: 18px;
+    filter: invert(1);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
 }
