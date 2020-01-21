@@ -303,6 +303,10 @@ article h3 {
     display: inline-block;
 }
 
+#catalog ul {
+    margin-top: 5px;
+}
+
 #catalog li {
     border: 1px solid white;
     border-radius: 25px;
@@ -318,4 +322,56 @@ article h3 {
 #catalog .button {
     grid-column: 2 / span 1;
     margin: 0 auto;
+}
+
+#testimonials {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 40px 1fr;
+    column-gap: 30px;
+    row-gap: 30px;
+    padding: 40px;
+    background-image: radial-gradient(circle farthest-corner at right center, #72c92a 0%,  #72c92a 50%, transparent  50%, transparent 100%);
+}
+
+#testimonials h2 {
+    align-self: center;
+}
+
+#testimonials .arrows {
+    color: white;
+}
+
+.testimonial {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 25px;
+}
+
+.testimonial .person > img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.testimonial h3 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.sub {
+    display: block;
+    color: gray;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.social-links img {
+    width: 18px;
+    height: 18px;
+    opacity: 0.4;
 }
