@@ -1,11 +1,32 @@
-# eshop-frontend
+# E-Shop Frontend
+> An e-commerce website based on the design of [Michael D](https://dribbble.com/altezzik).
+> The original design for thiss project can be found at [behance.net](https://www.behance.net/gallery/69329213/Flower-e-shop).
+
+## Built With
+
+- HTML5 and CSS3
+
+**This page was built for it's design so it's not interactive.**
+
+
+## Live Demo (Development Branch)
+
+[Live Demo Link](http://raw.githack.com/bx44/eshop-frontend/main-dev/index.html)
+
+
+## Author
+
+👤 **Barak Ben-Hamu**
+
+- Github: [@bx44](https://github.com/bx44)
 
 ## Credits
 
-patio by Yi Chen from the Noun Project
-Love by Vectplus from the Noun Project
-cart by Nanda Ririz from the Noun Project
-Icons made by <a href="https://www.flaticon.com/authors/roundicons" title="Roundicons">Roundicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+Icons made by Yi Chen, Vectplus and Nanda Ririz from the Noun Project and Roundicons, Pixel Buddha, Pixel perfect and Freepik from FltaIcons.
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/bx44/eshop-frontend/issues).
