@@ -458,6 +458,10 @@ footer {
     padding: 0 10px;
 }
 
+.filters-button {
+    display: none;
+}
+
 .filters input[type="number"] {
     width: 40%;
     border: 1px solid rgb(114, 201, 42);
@@ -726,6 +730,28 @@ footer {
     .catalog.main .dot:hover,
     .catalog.main .dot.active {
         background-color: rgb(114, 201, 42);
+    }
+
+    .filters-button {
+        display: block;
+        grid-column: span 4;
+        border-radius: 15px;
+        border: 1px solid rgb(114, 201, 42);
+        text-align: center;
+        font-size: 1.1em;
+        color: rgb(114,201,42);
+        font-weight: bold;
+    }
+
+    .filters-button:visited {
+        color: rgb(114,201,42);
+    }
+
+    .filters-button svg {
+        fill: rgb(114, 201, 42);
+        margin: 6px 0;
+        height: 28px;
+        vertical-align: middle;
     }
 
     #product {

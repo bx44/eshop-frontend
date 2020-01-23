@@ -22,7 +22,7 @@
 
 ## Credits
 
-Icons made by Yi Chen, Vectplus and Nanda Ririz from the Noun Project and Roundicons, Pixel Buddha, Pixel perfect and Freepik from FltaIcons.
+Icons made by Yi Chen, Vectplus and Nanda Ririz from the Noun Project and Kiranshastry, Roundicons, Pixel Buddha, Pixel perfect and Freepik from FltaIcons.
 
 
 ## 🤝 Contributing
