@@ -1,6 +1,6 @@
 # E-Shop Frontend
 > An e-commerce website based on the design of [Michael D](https://dribbble.com/altezzik).
-> The original design for thiss project can be found at [behance.net](https://www.behance.net/gallery/69329213/Flower-e-shop).
+> The original design for this project can be found at [behance.net](https://www.behance.net/gallery/69329213/Flower-e-shop).
 
 ## Built With
 
